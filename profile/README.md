@@ -17,7 +17,7 @@ warego.id is interconnected inventory to simplify stock management, budgeting an
 
 - [@rojsiroj](https://www.github.com/rojsiroj)
 - [@iamidin](https://www.github.com/iamidin)
-- [@hilmir](https://www.github.com/hilmir)
+- [@hilsky](https://www.github.com/hilsky)
 
 
 ## Support
